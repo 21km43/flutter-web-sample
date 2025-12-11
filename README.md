@@ -1,6 +1,6 @@
 # flutter_web_sample
 
-GitHub Pagesを使ってFlutterアプリをWeb上で表示するサンプル
+GitHub Pagesを使ってFlutterアプリをWeb上で表示するサンプル.
 
 - [Workflows](.github/workflows/ci.yaml)
 
